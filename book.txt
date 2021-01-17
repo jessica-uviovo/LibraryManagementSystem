@@ -1,0 +1,20 @@
+1 The_Lightning_Thief Rick_Riordan Fantasy 9780786838653 0
+2 The_Lightning_Thief Rick_Riordan Fantasy 9780786838653 0
+3 The_Lightning_Thief Rick_Riordan Fantasy 9780786838653 0
+4 Legend Marie_Lu Sci-Fi 9780142422076 0
+5 Legend Marie_Lu Sci-Fi 9780142422076 0
+6 Prodigy Marie_Lu Sci-Fi 9780399256769 0
+7 Prodigy Marie_Lu Sci-Fi 9780399256769 0
+8 Blues_Warrior Bliss_Carter Romance 9798692908711 0
+9 Lure_Of_Obsession Lisa_Kessler Romance 9780997627404 0
+10 Lure_Of_Obsession Lisa_Kessler Romance 9780997627404 580
+11 Beautiful_Disaster Jamie_McGuire Romance 9781476712048 0
+12 Beautiful_Disaster Jamie_McGuire Romance 9781476712048 0
+13 Atomic_Habits James_Clear Psychology 9780735211292 0
+14 In_Order_To_Live Yeonmi_Park Memoir 9781594206795 0
+15 In_Order_To_Live Yeonmi_Park Memoir 9781594206795 0
+16 Breath James_Nestor Science 9780735213616 0
+17 Harry_Potter_and_the_Sorcerer's_Stone JK_Rowling Fantasy 9780590353427 3 0
+18 Harry_Potter_and_the_Sorcerer's_Stone JK_Rowling Fantasy 9780590353427 3 0
+19 Harry_Potter_and_the_Chamber_of_Secrets JK_Rowling Romance 9780439064873 3 0 
+20 Harry_Potter_and_the_Prizoner_of_Azkaban JK_Rowling Fantasy 9780439136365 3 0
