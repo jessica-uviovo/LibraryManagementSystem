@@ -1,2 +1,2 @@
 # Library Management System
-See the file Intrsuctions.pdf for a full description of the project.
+See the file Instructions.pdf for a full description of the project.
